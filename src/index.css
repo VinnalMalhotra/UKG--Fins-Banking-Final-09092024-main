@@ -325,7 +325,7 @@ footer {
 } */
 
 /* Header Section */
-header {
+/* header { */
   /* background-color: var(--brand-tertiary-color); */
   /* display: flex; */
   /* justify-content: space-between;
@@ -333,7 +333,7 @@ header {
   padding: 1rem; */
   /* border-bottom: 3px solid var(--brand-neutral-dark-color); */
   /* border-bottom: 2px solid #ccc; */
-}
+/* } */
 
 /* .hidden {
   display: none;
